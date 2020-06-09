@@ -37,12 +37,5 @@ dependencies {
     implementation "androidx.navigation:navigation-ui:2.2.2"
     //沉浸状态栏
     implementation 'com.jaeger.statusbarutil:library:1.5.1'
-    //Lifycycle
-    // ViewModel and LiveData
-    implementation "android.arch.lifecycle:extensions:1.1.1"
-    // alternatively, just ViewModel
-    implementation "android.arch.lifecycle:viewmodel:1.1.1"
-    // alternatively, just LiveData
-    implementation "android.arch.lifecycle:livedata:1.1.1"
 
 }
